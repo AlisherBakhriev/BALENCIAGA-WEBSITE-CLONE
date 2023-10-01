@@ -1,4 +1,4 @@
 # BALENCIAGA-WEBSITE-CLONE
 
-![image](https://github.com/AlisherBakhriev/BALENCIAGA-WEBSITE-CLONE/assets/100483679/a42d0bc6-6b90-42f8-a54b-1359a63f468e)
+![image](https://github.com/AlisherBakhriev/BALENCIAGA-WEBSITE-CLONE/assets/100483679/414c9cf2-2612-493d-a855-709518a8a90a)
 
